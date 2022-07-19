@@ -1,0 +1,15 @@
+C:\Users\Dell\Documents\c sharp assignments\loop-control-assignment\bin\Debug\net6.0\loop-control-assignment.exe
+C:\Users\Dell\Documents\c sharp assignments\loop-control-assignment\bin\Debug\net6.0\loop-control-assignment.deps.json
+C:\Users\Dell\Documents\c sharp assignments\loop-control-assignment\bin\Debug\net6.0\loop-control-assignment.runtimeconfig.json
+C:\Users\Dell\Documents\c sharp assignments\loop-control-assignment\bin\Debug\net6.0\loop-control-assignment.dll
+C:\Users\Dell\Documents\c sharp assignments\loop-control-assignment\bin\Debug\net6.0\loop-control-assignment.pdb
+C:\Users\Dell\Documents\c sharp assignments\loop-control-assignment\obj\Debug\net6.0\loop-control-assignment.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\c sharp assignments\loop-control-assignment\obj\Debug\net6.0\loop-control-assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\c sharp assignments\loop-control-assignment\obj\Debug\net6.0\loop-control-assignment.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\c sharp assignments\loop-control-assignment\obj\Debug\net6.0\loop-control-assignment.AssemblyInfo.cs
+C:\Users\Dell\Documents\c sharp assignments\loop-control-assignment\obj\Debug\net6.0\loop-control-assignment.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\c sharp assignments\loop-control-assignment\obj\Debug\net6.0\loop-control-assignment.dll
+C:\Users\Dell\Documents\c sharp assignments\loop-control-assignment\obj\Debug\net6.0\refint\loop-control-assignment.dll
+C:\Users\Dell\Documents\c sharp assignments\loop-control-assignment\obj\Debug\net6.0\loop-control-assignment.pdb
+C:\Users\Dell\Documents\c sharp assignments\loop-control-assignment\obj\Debug\net6.0\loop-control-assignment.genruntimeconfig.cache
+C:\Users\Dell\Documents\c sharp assignments\loop-control-assignment\obj\Debug\net6.0\ref\loop-control-assignment.dll
